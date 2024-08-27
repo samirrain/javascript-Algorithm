@@ -1,0 +1,6 @@
+<output> Tag: 
+it is use  to show real-time results from calculations or user input. Set name="result" and id="put another input id" to update it without JavaScript easily.
+
+enctype Attribute: 
+
+The enctype attribute tells the server how to handle the form data. It’s like choosing the format for sending your info, like plain text or files.
