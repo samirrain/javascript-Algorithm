@@ -4,3 +4,35 @@ it is use  to show real-time results from calculations or user input. Set name="
 enctype Attribute: 
 
 The enctype attribute tells the server how to handle the form data. It’s like choosing the format for sending your info, like plain text or files.
+
+
+sql vs nosql
+
+sql
+RDBMS is a relational  database management system and works on relaional database
+
+it stores data in form of exiting of table
+
+it uses sql to query database
+
+nosql
+it's a non-relational , document oriented database management system and works on document - based database
+
+mongodb stores data in form of document
+
+mongodb uses bson to query database
+
+
+json vs bson
+
+json:
+1. encoding : utf 8 string
+2. datasupport  : sting, boolean, number ,array,object,null
+3. readablility : human and machine
+
+bjson : 
+
+1. binary
+2. string , boolean , number(integer,float,long,decimal),array,null,data,binarydata
+
+3. machine only understand
