@@ -24,4 +24,4 @@ for(let i = 1 ; i<=n ;i++){
    }
 
 }
-console.log(findMissingvalue(2,[1]))
+console.log(findMissingvalue( 5,  [1,2,3,5]))
